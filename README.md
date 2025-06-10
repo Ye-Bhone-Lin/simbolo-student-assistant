@@ -41,6 +41,13 @@ simbolo-student-assistant
 ```
 Access the application at http://localhost:8501 .
 
+## Docker Pull
+
+If you prefer to use a pre-built Docker image, you can pull it from Docker Hub using the following command:
+
+```bash
+docker pull yebhonelin102273442/simbolo-student-assistant
+```
 
 ## Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
