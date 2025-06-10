@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "elasticsearch Chatbot"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "elasticsearch>=9.0.2",
+    "groq>=0.26.0",
+    "python-dotenv>=1.1.0",
+]
