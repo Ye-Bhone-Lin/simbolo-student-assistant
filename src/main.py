@@ -1,6 +1,7 @@
 import streamlit as st
 from search_engine import GenerateOutput
 
+
 st.set_page_config(page_title="Simbolo Student Assistant", layout="centered")
 st.title("Simbolo Student Assistant")
 
