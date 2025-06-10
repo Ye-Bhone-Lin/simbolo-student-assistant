@@ -1,0 +1,138 @@
+[
+    {
+        "Questions": "What is Simbolo?",
+        "Answers": "Símbolo is a training school which provides high-quality education in science and technology by offering courses in Artificial Intelligence, Data Science, Web Development, Mobile Development, and Information Technology. These courses combine theoretical knowledge with practical, project-based learning."
+    },
+    {
+        "Questions": "When was Simbolo founded?",
+        "Answers": "Símbolo was founded in 6th May, 2021."
+    },
+    {
+        "Questions": "What does Simbolo mean?",
+        "Answers": "Símbolo is pronounced in Spanish which means symbol."
+    },
+    {
+        "Questions": "How many tracks are there as courses offered by Simbolo? What are those?",
+        "Answers": "Símbolo offers 4 tracks : Artificial Intelligence Track, Data Science Track, Web Development Track and Mobile Development Track. Plus other isolated IT classes"
+    },
+    {
+        "Questions": "What courses are there in the Artificial Intelligence Track?",
+        "Answers": "Foundations of Python: A Step-by-Step Learning, Math Fundamentals: Behind the sense of AI and Data  Science, AI Foundations: From Theory to Practical Applications, Applied Machine Learning, Introduction to Computer Vision"
+    },
+    {
+        "Questions": "What courses are available in the Data Science Track",
+        "Answers": "Foundations of Python: A Step-by-Step Learning, Math Fundamentals: Behind the sense of AI and Data  Science, Oracle Database Foundation, Unlock the Data Analytics Mystery, AI Foundations: From Theory to Practical Applications, Applied Machine Learning"
+    },
+    {
+        "Questions": "What courses are in the Web Development Track?",
+        "Answers": "A UX/UI Essential Course, The Art of Web Design: Master HTML, CSS, Bootstrap and JavaScript, React JS Course (Frontend), Web Development with PHP (Backend)"
+    },
+    {
+        "Questions": "What courses are in the Mobile Development Track?",
+        "Answers": "iOS Development Fundamentals"
+    },
+    {
+        "Questions": "What are the isolated classes?",
+        "Answers": "Software Testing Fundamentals (Manual), Quantum Computing: The Theoretical Minimum, IT Project Management Fundamentals, Pathway to success: College Readiness "
+    },
+    {
+        "Questions": "Can I attend a One on One class at Simbolo? Which One on One classes are there?",
+        "Answers": "One on one classes are available. Símbolo offers one on one class for these subjects: - Python\n- Introduction to AI\n- Math Fundamentals\n- UX/UI\n- Oracle Database Foundation\n- Applied Machine Learning \n- Data Science Foundation\n- Web Development Foundation\n- JavaScript \n- React JS\n- Software Testing Fundamental \n- Data Analysis\n- Mobile Development \n- IT Project Management "
+    },
+    {
+        "Questions": "How many students attended Símbolo?",
+        "Answers": "Over 1,900 students have attended Simbolo."
+    },
+    {
+        "Questions": "What are the benefits that only students of Simbolo can enjoy?",
+        "Answers": "Membership Card, Jump Start Internship Program, Letter of Recommendation, Competition Mentorship, Pocket Money Program for Symbols"
+    },
+    {
+        "Questions": "What is Jump Start Program?",
+        "Answers": "The Jump Start Program is a program that provides Internship Experiences and Guidance to prepare you to start an AI career. The following services are included in the Jump Start Program: 1. Literature Reviews, Paper Reading, Labeling Guidelines 2. Git/Github and Useful Github Commands 3. Machine Learning Model Deployment with Docker and Flask API, AWS, Load Testing with Jmeter 4. Interview Preparation (Resume and Cover Letter), HR Interview, and Technical Interview 5. Basic Data Structure and Algorithm for Coding Interview 6. Individual Project"
+    },
+    {
+        "Questions": "What do I need to do to get a Letter of Recommendation?\n",
+        "Answers": "The students who attended 3 classes and achieved certificates at Simbolo can request a \"Recommendation Letter\" to apply for scholarships and other programs."
+    },
+    {
+        "Questions": "What is the location of Simbolo?",
+        "Answers": "Simbolo is located at 91H*42H, Mahar Aung Myay, Mandalay. Let me know if you need directions!"
+    },
+    {
+        "Questions": "Where can we contact the Simbolo?",
+        "Answers": "You can contact Simbolo in the following ways:\nEmail: simboloit@gmail.com\nPhone: +959951716847\nMessenger: https://m.me/Simboloit"
+    },
+    {
+        "Questions": "What topics are covered in an Introduction to Computer Vision course?",
+        "Answers": "Here is the course outline for Computer Vision:\n- Introduction to Compute Vision\n- Image Processing with Python\n- Machine Learning with Python\n- Deep Learning with Python\n"
+    },
+    {
+        "Questions": "What is the course outline of Python?",
+        "Answers": "Here is the course outline of Python class:\n- Introduction to Python Language\n- Values and Variables\n- Expressions and Arithmetic\n- Conditional Execution\n- Iteration Loops\n- Function\n- Libraries\n- Data Structures\n- File Handling\n- Regular Expression\n- Object Oriented Programming (OOP)"
+    },
+    {
+        "Questions": "What is the course outline of AI Foundations: From Theory to Practical Applications?",
+        "Answers": "Here is the course outline of AI Foundations class:\n- Artificial Intelligence\n- Data Analysis with Python\n- Machine Learning\n- Deep Learning\n- Natural Language Processing (Burmese Language)\n- AI Ethics"
+    },
+    {
+        "Questions": "What is the course outline of Math Fundamentals: Behind the Science of AI and Data Science?",
+        "Answers": "Here is the course outline of Math Fundamentals class:\n- Statistics\n- Probability\n- Linear Algebra\n- Calculus\n- AI Model Structure"
+    },
+    {
+        "Questions": "What is the course outline of UXUI?",
+        "Answers": "Here is the course outline of UXUI class:\nUX\n- Introduction to UX UI design\n- Product development life cycle\n- Design thinking process\n- Designer roles and responsibilities \n- UX design principle\n- UX research methodologies\n- User persona \n- Information Architecture\n\nUI\n- Get in touch with design tools\n- Brain storming in figjam and miro\n- UI design principles\n- Wireframing in Figma \n- Create components and interaction components\n- Create local library for effective design\n- Highfidelity Design (Mobile and Web)\n- Iterating and Usability Testing\n\nFinal project and Design presentation included."
+    },
+    {
+        "Questions": "What is the course outline of Oracle Database Foundation?",
+        "Answers": "Here is the course outline of Oracle Database Foundation class:\n- Introduction \n- Database Management Fundamental\n- Oracle Database Architecture\n- Oracle Database Features\n- Oracle Relational Database Structure\n- Step by step Oracle database development\n- Oracle SQL\n- PL/SQL with Oracle SQL Developer\n- Package\n- Managing the Oracle Database Instance\n- Reporting"
+    },
+    {
+        "Questions": "What is the course outline of Applied Machine Learning?",
+        "Answers": "Here is the course outline of Applied Machine Learning class:\n- Introduction to Machine Learning\n- Pre-requisites and Introduction to Pandas\n- Linear Regression\n- Logistic Regression\n- Decision Tree and Random Forest\n- Naive Bayes and Support Vector Machine\n- Regularization and Evaluation Metrics\n- K-Means Algorithm and Dimensionality Reduction\n- Introduction to Deep Learning"
+    },
+    {
+        "Questions": "What is the course outline of Data Science Foundation?",
+        "Answers": "Here is the course outline of Data Science Foundation class:\n- Introduction to Data Science\n- Data Handling with Python\n- Data Collection: Web Scraping\n- Data Preprocessing\n- Relational Data\n- Exploratory Data Analysis and Visualization\n- Data Science Techniques"
+    },
+    {
+        "Questions": "What is the course outline of React JS?",
+        "Answers": "Here is the course outline for React JS:\n- Introduction to React\n- React Components and props\n- React Hooks\n- API Calling with Axios in React \n- Custom Hook\n- React router dom\n- Useful and Popolar UI Libraries for React \n- Form handling with react hook form\n- Redux \n- React-redux"
+    },
+    {
+        "Questions": "What is the course outline of IT Project Management?",
+        "Answers": "Here is the course outline for IT Project Management:\n- Project Management Introduction\n- Project Management Life Cycle \n- Project Integration Management\n- Project Scope Management\n- Project Time Management\n- Project Cost Management\n- Project Quality Management\n- Project Resource Management\n- Project Communication Management\n- Project Risk Management"
+    },
+    {
+        "Questions": "What is the course outline of IOS Development Fundamentals?",
+        "Answers": "Here is the course outline for IOS Development Fundamentals : \n- Introduction to XCode\n- User Interface Building using storyboards\n- Different Types of Screen Navigations\n- Using Protocols \n- Build list view and grid views \n- Using Swift Package Manager\n- Build a network manager with Almofire\n- Integrate Open Weather API\n- Code refactoring and MVVM architecture"
+    },
+    {
+        "Questions": "What is the course outline of Software Testing Fundamental?",
+        "Answers": "Here is the course outline for Software Testing Fundamental:\n- Introduction to Software Testing\n- Testing Methodologies \n- Testing Documentation and Artifacts \n- Test Planning\n- Testing Techniques\n- Functional and Non- Functional Testing Types\n- User Acceptance Testing (UAT)\n- Test Closure and Lessons Learned + Sneak Peek of Testing Management Tools \n- API Testing ( Basic )\n- Introduction to ISTQB: Your First Step Towards Certification\n- Mini Test ( Multiple Choice) \n- Testing Project"
+    },
+    {
+        "Questions": "What is the course outline of Java Script?",
+        "Answers": "Here is the course outline for Java Script: \n1. Introduction to JavaScript \n-Course Overview and Setup\n-JavaScript Basics\n-Data Types and Variables\n2. Control Structures and Functions\n3. Objects and Arrays\n4. Advanced JavaScript Concepts\n-Asynchronous JavaScript\n-Error Handling\n\n5. Working with the DOM\n-Document Object Model (DOM)\n-Event Handling\n\n6. Browser APIs and AJAX\n\n7. Modern JavaScript and ES6\n-ES6 Features\n"
+    },
+    {
+        "Questions": "What is the course outline for Quantum Computing?",
+        "Answers": "Here is the course outline for Quantum Computing:\n- Linear Algebra, Statistics and Probability (1)\n- Linear Algebra, Statistics and Probability (2)\n- Introduction to Quantum Mechanics \n- Introduction to Quantum Computing \n- Quantum Algorithms (1)\n- Quantum Algorithms (2)\n- Practicality of Quantum Computing Devices"
+    },
+    {
+        "Questions": "What is the course outline for Pathway to Success College Readiness?",
+        "Answers": "Here is the course outline for Pathway to Success College Readiness:\n- Course Introduction \n- Academic 4 Skills\n- Critical Thinking and Problem Solving \n- Data Acquisition and Analysis\n- Statisicial Analysis and Visualization \n- Research Method Basics \n- Foundational IELTS\n- Soft Skills \n- College Application Process"
+    },
+    {
+        "Questions": "Which platforms will be used for the class sessions, recordings, and communication?",
+        "Answers": "The class will be conducted via Zoom, and recordings will also be made available on Google Classroom.\nFor class communication, we will be using the Discord platform."
+    },
+    {
+        "Questions": "How to register?",
+        "Answers": "You can register by filling out our form! Just tap the link below to get started on Messenger."
+    },
+    {
+        "Questions": "How did the Founder Phyo Thu Htet die?",
+        "Answers": "Because of the earthquake that was happened in March 29."
+    }
+]
