@@ -4,8 +4,8 @@ from search_engine import GenerateOutput
 st.set_page_config(page_title="Simbolo Student Assistant", layout="centered")
 st.title("Simbolo Student Assistant")
 
-es = st.secrets.general.ELASTIC_SEARCH_API_KEY
-gr = st.secrets.general.GROQ_API_KEY
+es = st.secrets['general']['ELASTIC_SEARCH_API_KEY']
+gr = st.secrets['general']['GROQ_API_KEY']
 
 
 st.markdown("""
