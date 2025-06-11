@@ -49,6 +49,11 @@ Connect the MCP Server at this website and test it out in tools section.
 ### Functionality
 - retrieve_information_and_generating_output : This tool retrieves information from the index knowledge base and generates output based on the input provided.
 
+## Demonstration
+![image](https://github.com/user-attachments/assets/5cf83f49-c538-40c1-abd2-ab70d4808f0e)
+
+You can test it in this link: https://kkxtgvxcmmdjjsfwenyxgp.streamlit.app/
+
 ## Docker
 To build and run the application using Docker, use the following commands:
 
