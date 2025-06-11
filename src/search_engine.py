@@ -3,8 +3,12 @@ from dotenv import load_dotenv
 import os
 import json
 from groq import Groq
+import streamlit as st 
 
-load_dotenv()
+es = st.secrets['ELASTIC_SEARCH_API_KEY']
+gr = st.secrets['GROQ_API_KEY']
+
+#load_dotenv()
 
 class SearchEngine:
     @classmethod
