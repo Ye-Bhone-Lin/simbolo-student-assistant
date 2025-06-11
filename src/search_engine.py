@@ -5,8 +5,8 @@ import json
 from groq import Groq
 import streamlit as st 
 
-es = st.secrets.general.ELASTIC_SEARCH_API_KEY
-gr = st.secrets.general.GROQ_API_KEY
+es = st.secrets['ELASTIC_SEARCH_API_KEY']
+gr = st.secrets['GROQ_API_KEY']
 
 #load_dotenv()
 
